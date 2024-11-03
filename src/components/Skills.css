@@ -1,0 +1,20 @@
+.skills {
+    padding: 4rem 2rem;
+    background-color: #f5f5f5;
+    text-align: center;
+  }
+  
+  .skills-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .skill {
+    width: 30%;
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+  }
+  
